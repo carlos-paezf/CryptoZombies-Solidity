@@ -1,4 +1,4 @@
-# Capitulo 1: Variables de Estado y Números Enteros
+# Capitulo 03: Variables de Estado y Números Enteros
 
 ¡Buen trabajo! Ahora que nosotros hemos conseguido una capa para nuestro contrato, aprendamos como Solidity maneja las variables.
 
