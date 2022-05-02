@@ -1,4 +1,4 @@
-# Capitulo 5: Estructuras
+# Capitulo 05: Estructuras
 
 Algunas veces necesitas un tipo de data más complejo. Por tal razón, Solidity provee `structs`:
 
@@ -33,3 +33,7 @@ contract ZombieFactory {
     }
 } 
 ```
+
+## Referencias
+
+Loom Network. (s. f.). #1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies. CryptoZombies. Recuperado 01 de Mayo de 2022, de [https://cryptozombies.io/en/lesson/1/chapter/5](https://cryptozombies.io/en/lesson/1/chapter/5)
