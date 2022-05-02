@@ -51,3 +51,7 @@ contract ZombieFactory {
     Zombie[] public zombies;
 }
 ```
+
+## Referencias
+
+Loom Network. (s. f.). #1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies. CryptoZombies. Recuperado 01 de Mayo de 2022, de [https://cryptozombies.io/en/lesson/1/chapter/6](https://cryptozombies.io/en/lesson/1/chapter/6)
