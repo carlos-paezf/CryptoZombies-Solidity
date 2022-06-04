@@ -1,5 +1,7 @@
 # [CryptoZombies - Solidity](https://cryptozombies.io/es/)
 
+[![wakatime](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/bed20953-9652-46a0-8207-87a46462f38e.svg?style=for-the-badge)](https://wakatime.com/badge/user/8ef73281-6d0a-4758-af11-fd880ca3009c/project/bed20953-9652-46a0-8207-87a46462f38e)
+
 ## Aprende a Programar Ethereum DApps Construyendo Tu Propio Juego
 
 CryptoZombies es una escuela de programación interactiva que enseña a crear contratos inteligentes en Solidity mientras construyes tu propio juego cripto-coleccionable.
