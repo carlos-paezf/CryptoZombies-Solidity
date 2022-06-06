@@ -34,7 +34,3 @@ contract ZombieFactory {
         _createZombie(_name, randDna);
     }
 }
-
-contract ZombieFeeding is ZombieFactory {
-    
-}
