@@ -120,4 +120,4 @@ contract ZombieFeeding is ZombieFactory {
 
 ## Referencias
 
-Loom Network. (s. f.). #1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies. CryptoZombies. Recuperado 04 de Junio de 2022, de [https://cryptozombies.io/en/lesson/3/chapter/2](https://cryptozombies.io/en/lesson/3/chapter/2)
+Loom Network. (s. f.). #1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies. CryptoZombies. Recuperado 04 de Junio de 2022, de [https://cryptozombies.io/en/lesson/3/chapter/3](https://cryptozombies.io/en/lesson/3/chapter/3)
