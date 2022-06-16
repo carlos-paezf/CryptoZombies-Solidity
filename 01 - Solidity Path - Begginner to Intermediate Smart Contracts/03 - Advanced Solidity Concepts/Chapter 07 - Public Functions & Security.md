@@ -15,7 +15,15 @@ En una inspección más cercana, esta función solo necesita ser llamada por `fe
 3. Al final de la función vamos a llamar `_triggerCooldown(myZombie)`, para que la alimentación active el tiempo de recuperación del zombie.
 
 ```sol
-
+contract ZombieFeeding is ZombieFactory {
+    ...
+    function feedAndMultiply(uint _zombieId, uint _targetDna, string memory _species) internal {
+        ...
+        require(_isReady(myZombie));
+        ...
+        _triggerCooldown(myZombie);
+    }
+}
 ```
 
 Loom Network. (s. f.). #1 Solidity Tutorial & Ethereum Blockchain Programming Course | CryptoZombies. CryptoZombies. Recuperado 04 de Junio de 2022, de [https://cryptozombies.io/en/lesson/3/chapter/7](https://cryptozombies.io/en/lesson/3/chapter/7)
